@@ -14,7 +14,7 @@ The main objective of this project is to analyze retail sales data to gain actio
 - **Average Bill Value:** Calculated to measure customer spending  
 - **Average Order Value:** Helped identify high-performing products and combos
 
-   ## Screenshot
+   ## Dashboard
   Screenshot 2025-10-02 103240.png
 
   ## Conclusion
