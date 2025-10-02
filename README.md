@@ -1,6 +1,6 @@
 ## Objective
 The main objective of this project is to analyze retail sales data to gain actionable insights that will enhance the performance of coffee shop.
-
+## Dataset
 [Coffee Shop Sales Dataset - Maven Analytics](https://mavenanalytics.io/data-playground/coffee-shop-sales)
 
 ## Data Preparation
@@ -15,6 +15,15 @@ The main objective of this project is to analyze retail sales data to gain actio
 - **Average Order Value:** Helped identify high-performing products and combos
 
    ## Screenshot
-  
+  Screenshot 2025-10-02 103240.png
+
+  ## Conclusion
+
+- This project provided extensive hands-on experience in Excel Power Query, Pivot Tables, and Dashboard Design. I learned to:
+- Handle and transform large datasets efficiently
+- Create interactive slicers and KPIs for clear data visualization
+- Apply professional formatting and illustrations for dashboards
+- Design dashboards that provide actionable business insights
+- Overall, the project strengthened my skills in data cleaning, analysis, and visualization, preparing me for real-world business analytics tasks.
 
 
