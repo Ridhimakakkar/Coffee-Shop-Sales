@@ -15,7 +15,7 @@ The main objective of this project is to analyze retail sales data to gain actio
 - **Average Order Value:** Helped identify high-performing products and combos
 
    ## Dashboard
-  Screenshot 2025-10-02 103240.png
+  https://github.com/Ridhimakakkar/Coffee-Shop-Sales/blob/main/Screenshot%202025-10-02%20103240.png
 
   ## Conclusion
 
